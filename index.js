@@ -118,15 +118,15 @@ async function starts() {
 				wait: '⌛ espera man ⌛',
 				success: '✔️ feito ✔️',
 				error: {
-					stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
+					stick: '❌ falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
 					Iv: '❌ Link inválido ❌'
 				},
 				only: {
-					group: '❌ Perintah ini hanya bisa di gunakan dalam group! ❌',
-					ownerG: '❌ Perintah ini hanya bisa di gunakan oleh owner group! ❌',
-					ownerB: '❌ Perintah ini hanya bisa di gunakan oleh owner bot! ❌',
-					admin: '❌ Perintah ini hanya bisa di gunakan oleh admin group! ❌',
-					Badmin: '❌ Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌'
+					group: '❌ Este comando só pode ser usado em grupos! ❌',
+					ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
+					ownerB: '❌ Este comando só pode ser usado pelo proprietário do bot! ❌',
+					admin: '❌ Este comando só pode ser usado por administradores de grupo! ❌',
+					Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
 				}
 			}
 
